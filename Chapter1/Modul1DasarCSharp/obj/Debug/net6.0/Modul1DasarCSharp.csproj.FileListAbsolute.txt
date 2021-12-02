@@ -1,0 +1,15 @@
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\bin\Debug\net6.0\Modul1DasarCSharp.exe
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\bin\Debug\net6.0\Modul1DasarCSharp.deps.json
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\bin\Debug\net6.0\Modul1DasarCSharp.runtimeconfig.json
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\bin\Debug\net6.0\Modul1DasarCSharp.dll
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\bin\Debug\net6.0\ref\Modul1DasarCSharp.dll
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\bin\Debug\net6.0\Modul1DasarCSharp.pdb
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.csproj.AssemblyReference.cache
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.AssemblyInfoInputs.cache
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.AssemblyInfo.cs
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.dll
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\ref\Modul1DasarCSharp.dll
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.pdb
+C:\Users\ridif\source\workshops\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.genruntimeconfig.cache
