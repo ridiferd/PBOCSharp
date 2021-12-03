@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gq9XlYClJMCiwDKPHfuSACopi+aA3ziMb8saKZGLBNxKlFkWsq6KNCDJ/Uwp1sfGu7jswDJOwqqG3Bwgdn+w+w==",
+  "dgSpecHash": "4eWpCc8OrkCzP5Ffx5RUg+UuufTXcVQkiRLewOzGt3V3H5WkPTBnq83XLbnYXzEkfouFpBTCp9c4GUPqSo7YTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ridif\\source\\workshops\\Modul1DasarCSharp\\Modul1DasarCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul1DasarCSharp\\Modul1DasarCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ridif\\.nuget\\packages\\mathnet.numerics\\5.0.0-alpha02\\mathnet.numerics.5.0.0-alpha02.nupkg.sha512"
+  ],
   "logs": []
 }
