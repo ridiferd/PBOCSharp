@@ -22,3 +22,6 @@ Car.DisplayCar();
 double avg = mobilAnda.AverageSpeed(40,50,60,80,70,80,100);
 Console.WriteLine(avg);
 
+
+Console.ReadLine();
+

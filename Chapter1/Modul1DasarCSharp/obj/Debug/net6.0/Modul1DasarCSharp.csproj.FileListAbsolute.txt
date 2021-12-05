@@ -28,3 +28,5 @@ C:\Users\ridif\source\PBOCsharp\Chapter1\Modul1DasarCSharp\obj\Debug\net6.0\Modu
 C:\Users\ridif\source\PBOCsharp\Chapter1\Modul1DasarCSharp\obj\Debug\net6.0\ref\Modul1DasarCSharp.dll
 C:\Users\ridif\source\PBOCsharp\Chapter1\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.pdb
 C:\Users\ridif\source\PBOCsharp\Chapter1\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.genruntimeconfig.cache
+C:\Users\ridif\source\PBOCsharp\Chapter1\Modul1DasarCSharp\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\ridif\source\PBOCsharp\Chapter1\Modul1DasarCSharp\obj\Debug\net6.0\Modul1DasarCSharp.csproj.CopyComplete
