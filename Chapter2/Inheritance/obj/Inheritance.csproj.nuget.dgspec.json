@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Labs\\Projects\\PIKA\\2021 - PBO\\CodeSample\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj": {}
+    "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "D:\\Labs\\Projects\\PIKA\\2021 - PBO\\CodeSample\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj": {
+    "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Labs\\Projects\\PIKA\\2021 - PBO\\CodeSample\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "D:\\Labs\\Projects\\PIKA\\2021 - PBO\\CodeSample\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
-        "packagesPath": "C:\\Users\\novri\\.nuget\\packages\\",
-        "outputPath": "D:\\Labs\\Projects\\PIKA\\2021 - PBO\\CodeSample\\PBOCsharp\\Chapter2\\Inheritance\\obj\\",
+        "projectPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
+        "packagesPath": "C:\\Users\\ridif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\novri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ridif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

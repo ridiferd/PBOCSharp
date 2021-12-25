@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OdxkvhPBBZW0LqF5CJzXUsdZBs5SIPFYKgXy5jX+q21Sr0ui5RGWwWZ9zrSc0WNP1nI9yrXnEedSlcvAbpi+hw==",
+  "dgSpecHash": "tendNARFN3ZlWCvdIWORwRiADh1HWTYeyg7AGJ35t7mdK+nGpQC/qucu/EAKUv4FHiayi0SCIDP1sgj9QHAIrw==",
   "success": true,
-  "projectFilePath": "D:\\Labs\\Projects\\PIKA\\2021 - PBO\\CodeSample\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
+  "projectFilePath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

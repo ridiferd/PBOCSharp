@@ -4,12 +4,22 @@
 Minuman airPutih = new Minuman() {Nama = "Air Putih", Harga = 1000};
 Minuman airEs = new Minuman() { Nama ="Air Es", Harga = 1500 };
 
+
 Kopi Arabica = new Kopi() { Nama= "Espresso", JenisKopi = "Arabica", Harga = 6000};
 Kopi Robusta = new Kopi() { Nama = "Espresso", JenisKopi = "Robusta", Harga = 7000 };
 Kopi EsKopiSusu = new Kopi() { Nama = "Es Kopi Susu", JenisKopi = "Robusta", Harga= 6500 };
+EsKopiSusu.RoastKopi();
+EsKopiSusu.RasaMinuman();
+
+Minuman a = EsKopiSusu;
+a.RasaMinuman();
 
 NonKopi Susu = new NonKopi() { Nama = "Susu", Harga = 7500, Rasa = "Vanilla/Coklat/Cookies/Strawberri" };
 NonKopi Sirup = new NonKopi() { Nama = "Sirup", Harga = 5000, Rasa = "Leci/Mangga/Jeruk/Melon/Strawberry/Mocca"};
+Sirup.AddTopping();
+
+
+
 
 Console.WriteLine("Selamat Datang di Warung Kopi Hitam Manis");
 Console.WriteLine("-------------");

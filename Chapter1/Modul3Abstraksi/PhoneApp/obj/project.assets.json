@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
-      "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\PhoneApp.csproj",
+      "projectName": "PhoneApp",
+      "projectPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\PhoneApp.csproj",
       "packagesPath": "C:\\Users\\ridif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter2\\Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ridif\\AppData\\Roaming\\NuGet\\NuGet.Config",

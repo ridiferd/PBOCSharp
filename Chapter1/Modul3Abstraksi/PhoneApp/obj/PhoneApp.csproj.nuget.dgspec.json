@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul1DasarCSharp\\Modul1DasarCSharp.csproj": {}
+    "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\PhoneApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul1DasarCSharp\\Modul1DasarCSharp.csproj": {
+    "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\PhoneApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul1DasarCSharp\\Modul1DasarCSharp.csproj",
-        "projectName": "Modul1DasarCSharp",
-        "projectPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul1DasarCSharp\\Modul1DasarCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\PhoneApp.csproj",
+        "projectName": "PhoneApp",
+        "projectPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\PhoneApp.csproj",
         "packagesPath": "C:\\Users\\ridif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul1DasarCSharp\\obj\\",
+        "outputPath": "C:\\Users\\ridif\\source\\PBOCsharp\\Chapter1\\Modul3Abstraksi\\PhoneApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ridif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "MathNet.Numerics": {
-              "target": "Package",
-              "version": "[5.0.0-alpha02, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
