@@ -1,0 +1,15 @@
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\bin\Debug\net6.0\InterfaceSample.exe
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\bin\Debug\net6.0\InterfaceSample.deps.json
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\bin\Debug\net6.0\InterfaceSample.runtimeconfig.json
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\bin\Debug\net6.0\InterfaceSample.dll
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\bin\Debug\net6.0\ref\InterfaceSample.dll
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\bin\Debug\net6.0\InterfaceSample.pdb
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.csproj.AssemblyReference.cache
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.AssemblyInfoInputs.cache
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.AssemblyInfo.cs
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.csproj.CoreCompileInputs.cache
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.dll
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\ref\InterfaceSample.dll
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.pdb
+C:\Users\ridif\source\PBOCsharp\Chapter2\Interface\InterfaceSample\obj\Debug\net6.0\InterfaceSample.genruntimeconfig.cache
