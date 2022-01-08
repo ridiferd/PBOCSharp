@@ -49,6 +49,31 @@ public class Kopi : Minuman {
         // Console.WriteLine("Minuman {0} {1} {2) dengan {3} dibuat.", Es, Nama, JenisKopi, Gula);
     }
 }
-// public class NonKopi : Minuman {
-//     public string Rasa;
-// }
+public class Sirup : Minuman {
+    public string Rasa;
+
+ public Sirup(string nama, string rasa) {
+        this.Nama = nama;
+        this.Rasa = rasa;
+       
+    }
+
+
+ public override void Buat()
+    {
+        Console.WriteLine("Minuman {0} dengan rasa {1} dibuat.", Nama, Rasa);
+    }
+
+    public override void Buat(bool PakaiEs)
+    {
+        string Es = "";
+
+        if(PakaiEs){
+            Es = "Es";
+        }
+
+        Console.WriteLine("Minuman {0} {1} dengan rasa {2} dibuat.", Es, Nama,Rasa);
+        // Console.WriteLine("Minuman {0} {1} {2) dengan {3} dibuat.", Es, Nama, JenisKopi, Gula);
+    }
+
+}
