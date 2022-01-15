@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
 // statik
 // parameter berbeda nama fungsi sama dalam satu kelas
@@ -13,3 +13,15 @@ airPutih.Buat(true);
 Kopi Arabica = new Kopi("Kopi", "Arabika", false);
 Arabica.Buat();
 Arabica.Buat(true);
+
+var minuman = new List<Minuman>
+{
+    new Minuman(),
+    new Sirup("Fruit Punch", "Jeruk"),
+    new Kopi("Blended Coffe","Arabika", false)
+};
+
+foreach (var minum in minuman)
+{
+    minum.Buat();
+} 
