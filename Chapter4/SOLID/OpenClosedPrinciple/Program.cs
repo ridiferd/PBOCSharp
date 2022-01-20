@@ -1,11 +1,14 @@
-﻿Invoice FInvoice = new FinalInvoice();
-Invoice PInvoice = new ProposedInvoice();
-Invoice RInvoice = new RecurringInvoice();
+﻿// Invoice FInvoice = new FinalInvoice();
+// Invoice PInvoice = new ProposedInvoice();
+// Invoice RInvoice = new RecurringInvoice();
 
-double FInvoiceAmount = FInvoice.GetInvoiceDiscount(10000);
-double PInvoiceAmount = PInvoice.GetInvoiceDiscount(10000);
-double RInvoiceAmount = RInvoice.GetInvoiceDiscount(10000);
+// double FInvoiceAmount = FInvoice.GetInvoiceDiscount(10000);
+// double PInvoiceAmount = PInvoice.GetInvoiceDiscount(10000);
+// double RInvoiceAmount = RInvoice.GetInvoiceDiscount(10000);
 
-Console.WriteLine(FInvoiceAmount);
-Console.WriteLine(PInvoiceAmount);
-Console.WriteLine(RInvoiceAmount);
+// Console.WriteLine(FInvoiceAmount);
+// Console.WriteLine(PInvoiceAmount);
+// Console.WriteLine(RInvoiceAmount);
+
+
+/// !! PLEASE uncomment code with Open-Closed Principle !! ///
