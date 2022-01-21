@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Customer>
+
+@{
+    ViewData["Title"] = "Home Page";
+    int index = 1;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to PBO Sharp - MVC</h1>
+
+    <h3>Customer List</h3>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>No</td>
+                <td>First Name</td>
+                <td>Last Name</td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@customer.Firstname</td>
+                    <td>@customer.LastName</td>
+                    <td>
+                        <a href="@Url.Action("Detail", new { ID = customer.Id })" class="btn btn-primary">Detail</a>
+                    </td>
+                </tr>
+                index++;
+            }
+        </tbody>
+    </table>
+
+</div>

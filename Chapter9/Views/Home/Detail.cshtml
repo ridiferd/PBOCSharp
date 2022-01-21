@@ -1,0 +1,30 @@
+@model Customer;
+@{
+    ViewData["Title"] = "Customer Details";
+}
+
+<h4 class="page-header">Customer Details</h4>
+<div>
+    <div class="form-horizontal">
+        <div class="mb-3">
+            <label class="form-label">First Name</label>
+            <div>
+                <input class="form-control" readonly  value="@Model.Firstname" >
+            </div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Last Name</label>
+            <div>
+                <input class="form-control" readonly  value="@Model.LastName" >
+            </div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Address</label>
+            <div>
+                <input class="form-control" readonly  value="@Model.Address" >
+            </div>
+        </div>
+    </div>
+
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Back</a>
+</div>
