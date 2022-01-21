@@ -3,7 +3,7 @@ public class EmployeeBusinessLogic
     IEmployeeDataAccess _EmployeeDataAccess;
     public EmployeeBusinessLogic()
     {
-        _EmployeeDataAccess = DataAccessFactory.GetEmployeeDAtaAccessObj();
+        _EmployeeDataAccess = DataAccessFactory.GetEmployeeDataAccessObj();
     }
 
     public Employee GetEmployeeDetail(int id)

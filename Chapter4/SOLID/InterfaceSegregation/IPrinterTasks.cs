@@ -1,11 +1,11 @@
 /// Without Interface Segregation Principle
-public interface IPrinterTasks
-{
-    void Print(string PrintContent);
-    void Scan(string ScanContent);
-    void Fax(string FaxContent);
-    void PrintDuplex(string PrintDuplexContent);
-}
+// public interface IPrinterTasks
+// {
+//     void Print(string PrintContent);
+//     void Scan(string ScanContent);
+//     void Fax(string FaxContent);
+//     void PrintDuplex(string PrintDuplexContent);
+// }
 
 /// With Interface Segregation Principle
 public interface IPrinterTasks
